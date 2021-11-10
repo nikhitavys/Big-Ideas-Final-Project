@@ -5,3 +5,6 @@ https://data.wprdc.org/dataset/87f6e1d4-1d5b-4b1e-922c-cff0d37e93ac/resource/df5
 
 Daisy Chen - dac229@pitt.edu
 https://data.wprdc.org/dataset/ed4cf849-d323-4d01-8a13-675d283f1ac9/resource/ee834d8d-ae71-4b3b-b02b-312ba321ff17/download/illegaldumpsites.csv
+
+Nikhita Vysyaraju - NIV32@pitt.edu
+https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b
