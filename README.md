@@ -8,3 +8,4 @@ https://data.wprdc.org/dataset/ed4cf849-d323-4d01-8a13-675d283f1ac9/resource/ee8
 
 Nikhita Vysyaraju - NIV32@pitt.edu
 https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b
+The Daily Air Quality Index for Allegheny County data set focused on the amount of SO2 levels in each borough by using the Air Quality Index (AQI). The dataset started documenting the AQI per day in 2016 to the present. 
