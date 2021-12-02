@@ -10,4 +10,6 @@ This dataset includes information from 2005 about the estimated tons of trash at
 
 Nikhita Vysyaraju - NIV32@pitt.edu </br>
 https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b </br>
-The Daily Air Quality Index for Allegheny County data set focused on the amount of SO2 levels in 13 boroughs by using the Air Quality Index (AQI). The dataset started documenting the AQI per day in 2016 to the present. 
+The Daily Air Quality Index for Allegheny County data set uses the US national Air Quality Index to determine the daily averages in 13 different sites located in Allegheny County. The Air Quality Index used S02 levels to measure the air quality. The dataset also provided descriptions on the air quality if it the air was extremely polluted. The dataset started documenting the AQI per day in 2016 to the present. 
+
+# Abstract: 
